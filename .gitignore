@@ -1,0 +1,4 @@
+# 无头浏览器验证产物
+.cdp-profile/
+.cdp-shots/
+__pycache__/
